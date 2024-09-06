@@ -1,7 +1,3 @@
-Here's the updated GitHub README content for your project:
-
----
-
 # Customer Segmentation Using Data Science
 
 ## Introduction
