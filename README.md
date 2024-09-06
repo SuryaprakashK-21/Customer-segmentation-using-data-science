@@ -95,7 +95,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For questions or collaboration opportunities, please contact [suryaprakash212004@gmail.com](mailto:suryaprakash212004@gmail.com).
-
----
-
-You can use this content directly on your GitHub repository.
